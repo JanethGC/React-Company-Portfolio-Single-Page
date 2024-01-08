@@ -1,0 +1,35 @@
+.about-section{
+    height: 100vh;
+
+}
+
+.about-image img{
+    border-radius: 190px;
+    margin-top: 160px;
+    object-fit: cover;
+}
+
+.about-details{
+    margin-top: 160px;
+    text-align: center;
+    padding: 20px;
+}
+
+.about-title h5{
+    text-align: center;
+}
+
+.line{
+    display: block;
+    width: 70px;
+    height: 3px;
+    margin: 5px auto;
+    background-color: brown;
+}
+
+
+.about-list-item{
+    display: flex;
+    padding: 10px;
+
+}

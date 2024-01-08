@@ -1,10 +1,15 @@
 import React from 'react';
+import Navbar from './components/Navbar/Navbar.js';
+import Home from './components/Home/Home.js';
+import About from './components/About/About.js';
 
 const App = () => {
 
   return(
     <>
-      <h1> Aqui crearemos el NAVBAR</h1>
+      <Navbar></Navbar>
+      <Home></Home>
+      <About></About>
     </>
 
   )
